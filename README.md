@@ -1,6 +1,6 @@
 # Nombre del proyecto
 
-Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
+Equipo E13 · Análisis de Datos Básico · Estud-IA (Capa 2)
 
 > **Cómo llenar este archivo:** borra «Escribe aquí» y responde debajo de cada pregunta. Si todavía no sabes algo, escribe **PENDIENTE:** y qué te falta confirmar. No inventes datos.
 
@@ -9,54 +9,54 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 ### 1. Usuario y decisión
 > ¿Quién usará el resultado (una persona o un área) y qué va a decidir con él?
 
-Escribe aquí.
+Pendiente.
 
 ### 2. Pregunta principal
 > Una sola pregunta que ayude a tomar esa decisión.
 
-Escribe aquí.
+¿Que cliente genera mas riego?.
 
 ### 3. Fuente de datos
 > Enlace o nombre de la fuente. ¿Es pública o es una muestra de práctica inventada (sintética)? Si es inventada, dilo aquí.
 
-Escribe aquí.
+Cartera.
 
 ### 4. Qué representa una fila
 > Completa la frase: «Cada fila es…». ¿Qué campo distingue una fila de otra?
 
-Cada fila es…
+Cada fila es una factura pendiente de pago.
 
 ### 5. Periodo
 > ¿Qué fechas cubren los datos?
 
-Escribe aquí.
+Corte al 31 de octubre del 2026.
 
 ### 6. Cuatro indicadores
 > Nombre de cada indicador y, si ya puedes, cómo se calcula (qué se divide entre qué).
 
-1. 
-2. 
-3. 
-4. 
+1. % de cartera vencida.
+2. Promedio de recaudo.
+3. Total cartera.
+4. Variación trimestral.
 
 ### 7. Fuera de alcance
 > Lo que este proyecto NO va a responder.
 
-Escribe aquí.
+Porque un cliente se atrasa en los pagos.
 
 ## Si alcanzas hoy (para el jueves es obligatorio)
 
 ### Dos comparaciones útiles
 > Por ejemplo: por mes, por comuna, por categoría.
 
-1. 
-2. 
+1. Por mes.
+2. Trimestral.
 
 ### Tres riesgos de calidad
 > ¿Qué podría venir mal en los datos? ¿Qué harías si la fuente falla?
 
-1. 
-2. 
+1. Facturas duplicadas.
+2. Valores en negativo.
 3. 
 
 ### Mapa de preguntas
